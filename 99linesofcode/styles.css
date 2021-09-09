@@ -1,0 +1,25 @@
+html {
+    background-color: lightpink
+}
+
+h1 {
+    color: midnightblue;
+    font-family: 'Allison', cursive;
+    text-align: center;
+    font-size: 100px;
+}
+.friend {
+background-color: rgba(38, 93, 138, 0.26);
+text-transform: uppercase;
+font-family: 'Oswald', sans-serif;
+padding-left: 25px;
+padding-top: 5px;
+padding-bottom: 5px;
+cursor: pointer;
+
+
+}
+div {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    border-radius:2pc
+}
